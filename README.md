@@ -1,2 +1,8 @@
 # PhysarumProcessing
- Processing based Physarum/slime-mold simulation.
+Processing based Physarum/slime-mold simulation, based on Sage Jenson's implimentation described here: https://sagejenson.com/physarum
+
+---
+
+Example output:
+
+![Example output](preview.png)
